@@ -1,0 +1,10 @@
+{
+  "name": "Vision-Based Autonomous Navigation System for UGV",
+  "description": "Software-only autonomous navigation simulator for an Unmanned Ground Vehicle (UGV) navigating GPS-denied outdoor environments using visual perception, visual odometry, SLAM, and dynamic A* replanning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
